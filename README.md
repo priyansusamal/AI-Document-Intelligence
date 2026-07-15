@@ -158,6 +158,9 @@ streamlit run app.py
 
 ---
 
+## Deployed Link 
+https://ai-document-intelligence-fvkehrkp6fkwmcnivsnvva.streamlit.app/
+
 ## 👨‍💻 Developed By
 
 **Priyansu Samal**
