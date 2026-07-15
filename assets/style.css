@@ -1,0 +1,25 @@
+.main-title{
+    font-size:42px;
+    font-weight:700;
+    color:#4F46E5;
+}
+
+.sub-title{
+    font-size:18px;
+    color:#666666;
+    margin-bottom:20px;
+}
+
+.metric-card{
+    background:#f8f9fc;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+    text-align:center;
+}
+
+.footer{
+    text-align:center;
+    color:gray;
+    margin-top:30px;
+}
